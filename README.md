@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" class="1-50">
   <a href="https://20essentials.github.io/project-000-001/" target="_blank">
     <img src="fotos/n1.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
   </a>
@@ -70,5 +70,89 @@
   </a>
   <a href="https://20essentials.github.io/project-000-024/" target="_blank">
     <img src="fotos/n24.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-025/" target="_blank">
+    <img src="fotos/n25.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-026/" target="_blank">
+    <img src="fotos/n26.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-027/" target="_blank">
+    <img src="fotos/n27.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-028/" target="_blank">
+    <img src="fotos/n28.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-029/" target="_blank">
+    <img src="fotos/n29.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-030/" target="_blank">
+    <img src="fotos/n30.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-031/" target="_blank">
+    <img src="fotos/n31.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-032/" target="_blank">
+    <img src="fotos/n32.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-033/" target="_blank">
+    <img src="fotos/n33.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-034/" target="_blank">
+    <img src="fotos/n34.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-035/" target="_blank">
+    <img src="fotos/n35.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-036/" target="_blank">
+    <img src="fotos/n36.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-037/" target="_blank">
+    <img src="fotos/n37.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-038/" target="_blank">
+    <img src="fotos/n38.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-039/" target="_blank">
+    <img src="fotos/n39.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-040/" target="_blank">
+    <img src="fotos/n40.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-041/" target="_blank">
+    <img src="fotos/n41.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-042/" target="_blank">
+    <img src="fotos/n42.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-043/" target="_blank">
+    <img src="fotos/n43.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-044/" target="_blank">
+    <img src="fotos/n44.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-045/" target="_blank">
+    <img src="fotos/n45.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-046/" target="_blank">
+    <img src="fotos/n46.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-047/" target="_blank">
+    <img src="fotos/n47.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-048/" target="_blank">
+    <img src="fotos/n48.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-049/" target="_blank">
+    <img src="fotos/n49.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-050/" target="_blank">
+    <img src="fotos/n50.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-051/" target="_blank">
+    <img src="fotos/n51.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-052/" target="_blank">
+    <img src="fotos/n52.avif" alt="foto" style="aspect-ration: 16 / 9; width: 66px; height: 34px; margin: 2px;">
   </a>
 </div>
