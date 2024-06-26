@@ -155,4 +155,16 @@
   <a href="https://20essentials.github.io/project-000-052/" target="_blank">
     <img src="fotos/n52.avif" alt="foto" style="aspect-ration: 16 / 9; width: 96px; height: 44px;">
   </a>
+  <a href="https://20essentials.github.io/project-000-053/" target="_blank">
+    <img src="fotos/n53.avif" alt="foto" style="aspect-ration: 16 / 9; width: 96px; height: 44px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-054/" target="_blank">
+    <img src="fotos/n54.avif" alt="foto" style="aspect-ration: 16 / 9; width: 96px; height: 44px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-055/" target="_blank">
+    <img src="fotos/n55.avif" alt="foto" style="aspect-ration: 16 / 9; width: 96px; height: 44px;">
+  </a>
+  <a href="https://20essentials.github.io/project-000-056/" target="_blank">
+    <img src="fotos/n56.avif" alt="foto" style="aspect-ration: 16 / 9; width: 96px; height: 44px;">
+  </a>
 </div>
