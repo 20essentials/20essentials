@@ -1,10 +1,10 @@
-<table style="text-align=center; margin: auto; width: 100%;">
+<table style="text-align: center; margin: auto; width: 100%;">
   <thead>
     <tr>
-      <th>Teachers</th>
-      <th>Github</th>
-      <th>X</th>
-      <th>YouTube</th>
+      <th style="width: 25%;">Teachers</th>
+      <th style="width: 25%;">Github</th>
+      <th style="width: 25%;">X</th>
+      <th style="width: 25%;">YouTube</th>
     </tr>
   </thead>
   <tbody>
@@ -50,6 +50,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 
