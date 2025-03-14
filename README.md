@@ -1,4 +1,4 @@
-<table >
+<table style="text-align=center; margin-inline: auto;">
   <thead>
     <tr>
       <th>Teachers</th>
@@ -39,7 +39,7 @@
       <td><a href="https://www.youtube.com/@CarmenAnsio">Carmen</a></td>
     </tr>
     <tr>
-      <td>John Mircha</td>
+      <td>Jonathan Mircha</td>
       <td>
         <a href="https://github.com/jonmircha">
           <img src="teachers/john.avif" alt="Johnmircha" style="width: 75px; height: auto;">
