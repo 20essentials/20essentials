@@ -1,4 +1,4 @@
-<table border="1">
+<table >
   <thead>
     <tr>
       <th>Teachers</th>
@@ -12,7 +12,7 @@
       <td>Miguel Ángel Durán</td>
       <td>
         <a href="https://github.com/midudev">
-          <img src="teachers/midu.avif" alt="Midudev" style="width: 100px; height: auto;">
+          <img src="teachers/midu.avif" alt="Midudev" style="width: 75px; height: auto;">
         </a>
       </td>
       <td><a href="https://x.com/midudev">@midudev</a></td>
@@ -22,7 +22,7 @@
       <td>José Román Hernández</td>
       <td>
         <a href="https://github.com/manzdev">
-          <img src="teachers/manz.avif" alt="Manz" style="width: 100px; height: auto;">
+          <img src="teachers/manz.avif" alt="Manz" style="width: 75px; height: auto;">
         </a>
       </td>
       <td><a href="https://x.com/Manz">@manz</a></td>
@@ -32,7 +32,7 @@
       <td>Carmen Ansio</td>
       <td>
         <a href="https://github.com/carmenansio">
-          <img src="teachers/carmen.avif" alt="Carmen" style="width: 100px; height: auto;">
+          <img src="teachers/carmen.avif" alt="Carmen" style="width: 75px; height: auto;">
         </a>
       </td>
       <td><a href="https://x.com/carmenansio">@carmenansio</a></td>
@@ -42,7 +42,7 @@
       <td>John Mircha</td>
       <td>
         <a href="https://github.com/jonmircha">
-          <img src="teachers/john.avif" alt="Johnmircha" style="width: 100px; height: auto;">
+          <img src="teachers/john.avif" alt="Johnmircha" style="width: 75px; height: auto;">
         </a>
       </td>
       <td><a href="https://x.com/jonmircha">@jonmircha</a></td>
