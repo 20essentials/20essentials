@@ -1,6 +1,6 @@
 <table style="text-align: center; margin: auto; width: 100%;">
   <thead>
-    <tr>
+    <tr style="width: 100%;">
       <th style="width: 25%;">Teachers</th>
       <th style="width: 25%;">Github</th>
       <th style="width: 25%;">X</th>
@@ -8,51 +8,48 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Miguel Ángel Durán</td>
-      <td>
+    <tr style="width: 100%;">
+      <td style="width: 25%;">Miguel Ángel Durán</td>
+      <td style="width: 25%;">
         <a href="https://github.com/midudev">
           <img src="teachers/midu.avif" alt="Midudev" style="width: 75px; height: auto;">
         </a>
       </td>
-      <td><a href="https://x.com/midudev">@midudev</a></td>
-      <td><a href="https://www.youtube.com/@midudev">Midudev</a></td>
+      <td style="width: 25%;"><a href="https://x.com/midudev">@midudev</a></td>
+      <td style="width: 25%;"><a href="https://www.youtube.com/@midudev">Midudev</a></td>
     </tr>
-    <tr>
-      <td>José Román Hernández</td>
-      <td>
+    <tr style="width: 100%;">
+      <td style="width: 25%;">José Román Hernández</td>
+      <td style="width: 25%;">
         <a href="https://github.com/manzdev">
           <img src="teachers/manz.avif" alt="Manz" style="width: 75px; height: auto;">
         </a>
       </td>
-      <td><a href="https://x.com/Manz">@manz</a></td>
-      <td><a href="https://www.youtube.com/@ManzDev">ManzDev</a></td>
+      <td style="width: 25%;"><a href="https://x.com/Manz">@manz</a></td>
+      <td style="width: 25%;"><a href="https://www.youtube.com/@ManzDev">ManzDev</a></td>
     </tr>
-    <tr>
-      <td>Carmen Ansio</td>
-      <td>
+    <tr style="width: 100%;">
+      <td style="width: 25%;">Carmen Ansio</td>
+      <td style="width: 25%;">
         <a href="https://github.com/carmenansio">
           <img src="teachers/carmen.avif" alt="Carmen" style="width: 75px; height: auto;">
         </a>
       </td>
-      <td><a href="https://x.com/carmenansio">@carmenansio</a></td>
-      <td><a href="https://www.youtube.com/@CarmenAnsio">Carmen</a></td>
+      <td style="width: 25%;"><a href="https://x.com/carmenansio">@carmenansio</a></td>
+      <td style="width: 25%;"><a href="https://www.youtube.com/@CarmenAnsio">Carmen</a></td>
     </tr>
-    <tr>
-      <td>Jonathan Mircha</td>
-      <td>
+    <tr style="width: 100%;">
+      <td style="width: 25%;">Jonathan Mircha</td>
+      <td style="width: 25%;">
         <a href="https://github.com/jonmircha">
           <img src="teachers/john.avif" alt="Johnmircha" style="width: 75px; height: auto;">
         </a>
       </td>
-      <td><a href="https://x.com/jonmircha">@jonmircha</a></td>
-      <td><a href="https://www.youtube.com/jonmircha">Jonmircha</a></td>
+      <td style="width: 25%;"><a href="https://x.com/jonmircha">@jonmircha</a></td>
+      <td style="width: 25%;"><a href="https://www.youtube.com/jonmircha">Jonmircha</a></td>
     </tr>
   </tbody>
 </table>
-
-
-
 
 [![Foto Preview](fotos/701-800.avif)](https://20essentials.github.io/701-800/)
 [![Foto Preview](fotos/601-700.avif)](https://20essentials.github.io/601-700/)
