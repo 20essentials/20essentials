@@ -1,9 +1,56 @@
-| Mentors / Teachers   | Imagen                            | X / Twitter                                     | YouTube                                               |
-| -------------------- | --------------------------------- | ----------------------------------------------- | ----------------------------------------------------- |
-| Miguel Ángel Durán   | [![Midudev](teachers/midu.avif)](https://github.com/midudev)    | [@midudev](https://x.com/midudev)         | [Midudev](https://www.youtube.com/@midudev)          |
-| José Román Hernández | [![Manz](teachers/manz.avif)](https://github.com/manzdev)       | [@manz](https://x.com/Manz)               | [ManzDev](https://www.youtube.com/@ManzDev)          |
-| Carmen Ansio         | [![Carmen](teachers/carmen.avif)](https://github.com/carmenansio)   | [@carmenansio](https://x.com/carmenansio) | [Carmen](https://www.youtube.com/@CarmenAnsio) |
-| John Mircha          | [![Johnmircha](teachers/john.avif)](https://github.com/jonmircha) | [@jonmircha](https://x.com/jonmircha)           | [Jonmircha](https://www.youtube.com/jonmircha)       |
+<table border="1">
+  <thead>
+    <tr>
+      <th>Teachers</th>
+      <th>Github</th>
+      <th>X</th>
+      <th>YouTube</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Miguel Ángel Durán</td>
+      <td>
+        <a href="https://github.com/midudev">
+          <img src="teachers/midu.avif" alt="Midudev" style="max-width: 100px; height: auto;">
+        </a>
+      </td>
+      <td><a href="https://x.com/midudev">@midudev</a></td>
+      <td><a href="https://www.youtube.com/@midudev">Midudev</a></td>
+    </tr>
+    <tr>
+      <td>José Román Hernández</td>
+      <td>
+        <a href="https://github.com/manzdev">
+          <img src="teachers/manz.avif" alt="Manz" style="max-width: 100px; height: auto;">
+        </a>
+      </td>
+      <td><a href="https://x.com/Manz">@manz</a></td>
+      <td><a href="https://www.youtube.com/@ManzDev">ManzDev</a></td>
+    </tr>
+    <tr>
+      <td>Carmen Ansio</td>
+      <td>
+        <a href="https://github.com/carmenansio">
+          <img src="teachers/carmen.avif" alt="Carmen" style="max-width: 100px; height: auto;">
+        </a>
+      </td>
+      <td><a href="https://x.com/carmenansio">@carmenansio</a></td>
+      <td><a href="https://www.youtube.com/@CarmenAnsio">Carmen</a></td>
+    </tr>
+    <tr>
+      <td>John Mircha</td>
+      <td>
+        <a href="https://github.com/jonmircha">
+          <img src="teachers/john.avif" alt="Johnmircha" style="max-width: 100px; height: auto;">
+        </a>
+      </td>
+      <td><a href="https://x.com/jonmircha">@jonmircha</a></td>
+      <td><a href="https://www.youtube.com/jonmircha">Jonmircha</a></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 [![Foto Preview](fotos/701-800.avif)](https://20essentials.github.io/701-800/)
