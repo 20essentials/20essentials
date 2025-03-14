@@ -1,7 +1,7 @@
 [![Foto Preview](fotos/701-800.avif)](https://20essentials.github.io/701-800/)
 [![Foto Preview](fotos/501-600.avif)](https://20essentials.github.io/501-600/)
 
-<table style="text-align: center; margin: auto; width: 100%;">
+<table align="center" style="text-align: center; margin: auto; width: 100%;">
   <thead>
     <tr style="width: 100%;">
       <th style="width: 25%;">Teachers</th>
