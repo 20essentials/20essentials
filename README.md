@@ -1,4 +1,4 @@
-<table style="text-align=center; margin-inline: auto;">
+<table style="text-align=center; margin-inline: auto; width: 100%;">
   <thead>
     <tr>
       <th>Teachers</th>
