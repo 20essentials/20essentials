@@ -1,9 +1,10 @@
 | Mentors / Teachers   | Imagen                            | X / Twitter                                     | YouTube                                               |
 | -------------------- | --------------------------------- | ----------------------------------------------- | ----------------------------------------------------- |
-| Miguel Ángel Durán   | ![Midudev](teachers/midu.avif)    | [@midudev](https://x.com/midudev)         | [Midudev](https://www.youtube.com/@midudev)          |
-| José Román Hernández | ![Manz](teachers/manz.avif)       | [@manz](https://x.com/Manz)               | [ManzDev](https://www.youtube.com/@ManzDev)          |
-| Carmen Ansio         | ![Carmen](teachers/carmen.avif)   | [@carmenansio](https://x.com/carmenansio) | [Carmen](https://www.youtube.com/@CarmenAnsio) |
-| John Mircha          | ![Johnmircha](teachers/john.avif) | [@jonmircha](https://x.com/jonmircha)           | [Jonmircha](https://www.youtube.com/jonmircha)       |
+| Miguel Ángel Durán   | [![Midudev](teachers/midu.avif)](https://github.com/midudev)    | [@midudev](https://x.com/midudev)         | [Midudev](https://www.youtube.com/@midudev)          |
+| José Román Hernández | [![Manz](teachers/manz.avif)](https://github.com/manzdev)       | [@manz](https://x.com/Manz)               | [ManzDev](https://www.youtube.com/@ManzDev)          |
+| Carmen Ansio         | [![Carmen](teachers/carmen.avif)](https://github.com/carmenansio)   | [@carmenansio](https://x.com/carmenansio) | [Carmen](https://www.youtube.com/@CarmenAnsio) |
+| John Mircha          | [![Johnmircha](teachers/john.avif)](https://github.com/jonmircha) | [@jonmircha](https://x.com/jonmircha)           | [Jonmircha](https://www.youtube.com/jonmircha)       |
+
 
 [![Foto Preview](fotos/701-800.avif)](https://20essentials.github.io/701-800/)
 [![Foto Preview](fotos/601-700.avif)](https://20essentials.github.io/601-700/)
