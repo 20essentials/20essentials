@@ -1,3 +1,6 @@
+[![Foto Preview](fotos/701-800.avif)](https://20essentials.github.io/701-800/)
+[![Foto Preview](fotos/501-600.avif)](https://20essentials.github.io/501-600/)
+
 <table style="text-align: center; margin: auto; width: 100%;">
   <thead>
     <tr style="width: 100%;">
@@ -51,10 +54,8 @@
   </tbody>
 </table>
 
-[![Foto Preview](fotos/701-800.avif)](https://20essentials.github.io/701-800/)
-[![Foto Preview](fotos/601-700.avif)](https://20essentials.github.io/601-700/)
-[![Foto Preview](fotos/501-600.avif)](https://20essentials.github.io/501-600/)
 [![Foto Preview](fotos/301-400.avif)](https://20essentials.github.io/301-400/)
+[![Foto Preview](fotos/601-700.avif)](https://20essentials.github.io/601-700/)
 
 <!-- [![Foto Preview](fotos/401-500.avif)](https://20essentials.github.io/401-500/) -->
 <!-- [![Foto Preview](fotos/201-300.avif)](https://20essentials.github.io/201-300/) -->
