@@ -1,5 +1,6 @@
+[![Foto Preview](fotos/801-900.avif)](https://20essentials.github.io/801-900/)
 [![Foto Preview](fotos/701-800.avif)](https://20essentials.github.io/701-800/)
-[![Foto Preview](fotos/501-600.avif)](https://20essentials.github.io/501-600/)
+
 
 <table align="center" style="text-align: center; margin: auto; width: 100%;">
   <thead>
@@ -8,6 +9,7 @@
       <th style="width: 25%;">Github</th>
       <th style="width: 25%;">X</th>
       <th style="width: 25%;">YouTube</th>
+      <th style="width: 25%;">Favorite Video</th>
     </tr>
   </thead>
   <tbody>
@@ -20,6 +22,7 @@
       </td>
       <td style="width: 25%;"><a href="https://x.com/midudev">@midudev</a></td>
       <td style="width: 25%;"><a href="https://www.youtube.com/@midudev">Midudev</a></td>
+      <td style="width: 25%;"><a href="https://www.youtube.com/watch?v=b6du6MvQmuQ">Arkanoid con Canvas</a></td>
     </tr>
     <tr style="width: 100%;">
       <td style="width: 25%;">José Román Hernández</td>
@@ -30,6 +33,7 @@
       </td>
       <td style="width: 25%;"><a href="https://x.com/Manz">@manz</a></td>
       <td style="width: 25%;"><a href="https://www.youtube.com/@ManzDev">ManzDev</a></td>
+      <td style="width: 25%;"><a href="https://youtu.be/IZtclM_1Pcs">Portada de Disco</a></td>
     </tr>
     <tr style="width: 100%;">
       <td style="width: 25%;">Carmen Ansio</td>
@@ -40,6 +44,7 @@
       </td>
       <td style="width: 25%;"><a href="https://x.com/carmenansio">@carmenansio</a></td>
       <td style="width: 25%;"><a href="https://www.youtube.com/@CarmenAnsio">Carmen</a></td>
+      <td style="width: 25%;"><a href="https://www.youtube.com/watch?v=yjNjU-nGE7w&t=24m18s">JsConf Talk</a></td>
     </tr>
     <tr style="width: 100%;">
       <td style="width: 25%;">Jonathan Mircha</td>
@@ -50,11 +55,13 @@
       </td>
       <td style="width: 25%;"><a href="https://x.com/jonmircha">@jonmircha</a></td>
       <td style="width: 25%;"><a href="https://www.youtube.com/jonmircha">Jonmircha</a></td>
+      <td style="width: 25%;"><a href="https://youtu.be/0LMThcUx__0">CRUD con Fetch</a></td>
     </tr>
   </tbody>
 </table>
 
-[![Foto Preview](fotos/301-400.avif)](https://20essentials.github.io/301-400/)
+<!-- [![Foto Preview](fotos/301-400.avif)](https://20essentials.github.io/301-400/) -->
+[![Foto Preview](fotos/501-600.avif)](https://20essentials.github.io/501-600/)
 [![Foto Preview](fotos/601-700.avif)](https://20essentials.github.io/601-700/)
 
 <!-- [![Foto Preview](fotos/401-500.avif)](https://20essentials.github.io/401-500/) -->
