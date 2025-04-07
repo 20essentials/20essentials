@@ -22,7 +22,7 @@
       </td>
       <td style="width: 25%;"><a href="https://x.com/midudev">@midudev</a></td>
       <td style="width: 25%;"><a href="https://www.youtube.com/@midudev">Midudev</a></td>
-      <td style="width: 25%;"><a href="https://www.youtube.com/watch?v=b6du6MvQmuQ">Arkanoid con Canvas</a></td>
+      <td style="width: 25%;"><a href="https://www.youtube.com/watch?v=b6du6MvQmuQ&t=1h17m45s">Arkanoid con Canvas</a></td>
     </tr>
     <tr style="width: 100%;">
       <td style="width: 25%;">José Román Hernández</td>
@@ -33,7 +33,7 @@
       </td>
       <td style="width: 25%;"><a href="https://x.com/Manz">@manz</a></td>
       <td style="width: 25%;"><a href="https://www.youtube.com/@ManzDev">ManzDev</a></td>
-      <td style="width: 25%;"><a href="https://youtu.be/IZtclM_1Pcs">Portada de Disco</a></td>
+      <td style="width: 25%;"><a href="https://youtu.be/IZtclM_1Pcs&t=29m52s">Portada de Disco</a></td>
     </tr>
     <tr style="width: 100%;">
       <td style="width: 25%;">Carmen Ansio</td>
@@ -55,7 +55,7 @@
       </td>
       <td style="width: 25%;"><a href="https://x.com/jonmircha">@jonmircha</a></td>
       <td style="width: 25%;"><a href="https://www.youtube.com/jonmircha">Jonmircha</a></td>
-      <td style="width: 25%;"><a href="https://youtu.be/0LMThcUx__0">CRUD con Fetch</a></td>
+      <td style="width: 25%;"><a href="https://youtu.be/0LMThcUx__0&t=21m28s">CRUD con Fetch</a></td>
     </tr>
   </tbody>
 </table>
