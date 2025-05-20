@@ -1,8 +1,8 @@
-[![Foto Preview](fotos/801-900.avif)](https://20essentials.github.io/801-900/)
-[![Foto Preview](fotos/701-800.avif)](https://20essentials.github.io/701-800/)
+<!-- [![Foto Preview](fotos/801-900.avif)](https://20essentials.github.io/801-900/)
+[![Foto Preview](fotos/701-800.avif)](https://20essentials.github.io/701-800/) -->
 
 
-<table align="center" style="text-align: center; margin: auto; width: 100%;">
+<!-- <table align="center" style="text-align: center; margin: auto; width: 100%;">
   <thead>
     <tr style="width: 100%;">
       <th style="width: 25%;">Teachers</th>
@@ -58,11 +58,11 @@
       <td style="width: 25%;"><a href="https://youtu.be/0LMThcUx__0&t=21m28s">CRUD con Fetch</a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 <!-- [![Foto Preview](fotos/301-400.avif)](https://20essentials.github.io/301-400/) -->
-[![Foto Preview](fotos/501-600.avif)](https://20essentials.github.io/501-600/)
-[![Foto Preview](fotos/601-700.avif)](https://20essentials.github.io/601-700/)
+<!-- [![Foto Preview](fotos/501-600.avif)](https://20essentials.github.io/501-600/)
+[![Foto Preview](fotos/601-700.avif)](https://20essentials.github.io/601-700/) -->
 
 <!-- [![Foto Preview](fotos/401-500.avif)](https://20essentials.github.io/401-500/) -->
 <!-- [![Foto Preview](fotos/201-300.avif)](https://20essentials.github.io/201-300/) -->
