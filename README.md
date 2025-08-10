@@ -1,3 +1,4 @@
+[![Foto Preview](fotos/1001-1100.avif)](https://20essentials.github.io/1001-1100/)
 [![Foto Preview](fotos/901-1000.avif)](https://20essentials.github.io/901-1000/)
 [![Foto Preview](fotos/801-900.avif)](https://20essentials.github.io/801-900/)
 [![Foto Preview](fotos/301-400.avif)](https://20essentials.github.io/301-400/)
